@@ -1,1 +1,1 @@
-# Pixify
+# Imaginify
